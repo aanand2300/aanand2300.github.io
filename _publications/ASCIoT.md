@@ -2,7 +2,7 @@
 title: "A secure inter-domain communication for IoT devices"
 collection: publications
 permalink: /publications/ASCIoT
-venue: '2019 IEEE International Conference on Cloud Engineering'
+venue: 'IEEE International Conference on Cloud Engineering (IC2E)'
 date: 2019-06-24
 citation: '<b>Anand, A.</b>, Galletta, A., Celesti, A., Fazio, M., & Villari, M. <i>2019 IEEE International Conference on Cloud Engineering (IC2E)</i> (pp. 235-240). IEEE'
 ---

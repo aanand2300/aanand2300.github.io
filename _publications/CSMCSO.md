@@ -2,7 +2,7 @@
 title: "Cloudlet Scheduling using Merged CSO algorithm"
 collection: publications
 permalink: /publications/CSMCSO
-venue: "Fifth International Conference on Parallel, Distributed and Grid Computing (PDGC 2018)"
+venue: "Fifth International Conference on Parallel, Distributed and Grid Computing (PDGC)"
 date: 2018-12-20
 citation: 'Gupta, S., Singh, R. S., & <b>Anand, A</b>. <i>2018 Fifth International Conference on Parallel, Distributed and Grid Computing (PDGC)</i> (pp. 278-283). IEEE'
 ---
