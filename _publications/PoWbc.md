@@ -2,7 +2,7 @@
 title: "Performance Evaluation of PoW Blockchain in Wireless Mobile IoT networks"
 collection: publications
 permalink: /publications/PoWbc
-venue: 'ArXiv'
+venue: 'Currently in review'
 date: 2021-05-18
 citation: '<b>Aniket Anand</b>, Waqar Asif, Marios Lestas'
 ---
