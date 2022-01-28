@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aniket Anand"
 title_separator          : "-"
 name                     : &name "Aniket Anand"
-description              : &description "Incoming M.S. CS Student, School of Computer Science, Georgia Institute of Technology"
+description              : &description "M.S. CS Student, Georgia Institute of Technology"
 url                      : https://aanand2300.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aanand2300/aanand2300.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Aniket Anand"
   avatar           : "aniket.jpg"
-  bio              : "Incoming M.S. CS Student, School of Computer Science, Georgia Institute of Technology"
-  location         : "Atlanta, Georgia"
+  bio              : "M.S. CS Student, Georgia Institute of Technology"
+  location         : "KACB 3337, 266 Ferst Dr Atlanta GA 30313"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "AniketA01541569" 
   vine             :
   weibo            :
   xing             :
