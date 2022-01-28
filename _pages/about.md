@@ -15,4 +15,4 @@ Previously, I have explored blockchains and wireless networking with [Dr. Marios
 
 I earned a B.Tech degree in [Ceramic Engineering](https://en.wikipedia.org/wiki/Ceramic_engineering) from [IIT (BHU)](https://www.iitbhu.ac.in/) in 2020.
 
-If you have any exciting opportunity or just want to say Hello, please feel free to send me an email!
+If you have any exciting opportunity or just want to say Hello :), please feel free to send me an email!
