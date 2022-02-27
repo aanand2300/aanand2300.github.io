@@ -4,6 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-<!-- Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br> -->
+Klaus Advanced Computing Building 3337, Georgia Tech<br>
+266 Ferst Dr NW, Atlanta, GA 30332<br>
 Email: a.anand [at] gatech.edu
