@@ -6,4 +6,4 @@ author_profile: true
 ---
 Klaus Advanced Computing Building 3337, Georgia Tech<br>
 266 Ferst Dr NW, Atlanta, GA 30332<br>
-Email: a.anand [at] gatech.edu
+Email: aanand300 [at] gatech [dot] edu
