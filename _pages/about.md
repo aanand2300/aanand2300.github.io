@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### About me
-Hi! I am Aniket, a Master's student at [Georgia Tech](https://www.gatech.edu/) advised by [Professor Alberto Dainotti](https://faculty.cc.gatech.edu/~adainotti6/). I am studying [M.S. in Computer Science](https://www.cc.gatech.edu/degree-programs/master-science-computer-science) and specializing in Computing Systems. My research interest lies in Internet Measurement, Internet-Wide Computer Networks and Security. Recently, my research has focused on classifying major networks at various geolocations, identifying internet outages, and exploring internet-wide scanners.
+Hi! I am Aniket, a Master's student at [Georgia Tech](https://www.gatech.edu/) advised by [Professor Alberto Dainotti](https://faculty.cc.gatech.edu/~adainotti6/). I am studying Computer Science and specializing in Computing Systems. My research interest lies in Internet Measurement, Internet-Wide Computer Networks and Security. Recently, my research has focused on classifying major networks at various geolocations, identifying internet outages, and exploring internet-wide scanners.
 
 <ins>Updates</ins>
 * <b>I am on a lookout for Ph.D. positions starting Fall 2023 in the field of Computer Networks, Network Measurement and Security.</b>
