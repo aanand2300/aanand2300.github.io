@@ -18,4 +18,4 @@ Hi! I am Aniket, a Master's student at [Georgia Tech](https://www.gatech.edu/) a
 * Worked remotely with Dr. Marios Lestas and Dr. Waqar Asif until May 2021 on exploring blockchain network in wireless setting
 * Graduated from IIT (BHU) in July 2020 with a Bachelor of Technology in Ceramic Engineering.
 
-Email: aanand300 at gatech dot edu
+Email: aanand300 [at] gatech [dot] edu
