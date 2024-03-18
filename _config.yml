@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aniket Anand"
 title_separator          : "-"
 name                     : &name "Aniket Anand"
-description              : &description "M.S. CS Student, Georgia Institute of Technology"
+description              : &description "CS Ph.D. Student, The University of Chicago"
 url                      : https://aanand300.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aanand300/aanand300.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Aniket Anand"
   avatar           : "aniket.jpg"
-  bio              : "M.S. CS Student, Georgia Institute of Technology"
-  location         : "Atlanta GA"
+  bio              : "CS Ph.D. Student, The University of Chicago"
+  location         : "Chicago IL"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zU3RxU0AAAAJ&hl=en&oi=ao"
