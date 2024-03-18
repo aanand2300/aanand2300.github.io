@@ -15,7 +15,7 @@ Hi! I am a first-year Ph.D. student at UChicago advised by [Prof. Grant Ho](http
 <br>
 I received my MS in CS from [Georgia Tech](https://www.cc.gatech.edu/) where I worked on Internet measurements. I was advised by [Prof. Alberto Dainotti](https://faculty.cc.gatech.edu/~adainotti6/) and collaborated with Dr. Zachary Bischof and Dr. Amanda Meng.
 <br>
-Before that, I finished my undergrad at [IIT (BHU)](https://iitbhu.ac.in/).
+I finished my undergrad at [IIT (BHU)](https://iitbhu.ac.in/).
 
 Email: aanand300 [at] uchicago [dot] edu
 
