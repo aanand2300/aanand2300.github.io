@@ -18,7 +18,7 @@ Before that, I finished my undergrad at [IIT (BHU)](https://iitbhu.ac.in/).
 Email: aanand300 [at] uchicago [dot] edu
 
 <ins>News</ins>
-* Presented a paper at [CoNEXT'23]{https://dl.acm.org/doi/pdf/10.1145/3624354.3630583}
+* Presented a paper at [CoNEXT'23](https://dl.acm.org/doi/pdf/10.1145/3624354.3630583)
 * I started my Ph.D. at UChicago in Fall 2023
 * Spent the summer of 2023 and 2022 at Merit Research where I was advised by [Dr. Michalis Kallitsis](http://www-personal.umich.edu/~mgkallit/)
 * Started MS in Computer Science at Georgia Tech in Fall 2021
