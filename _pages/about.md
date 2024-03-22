@@ -20,9 +20,9 @@ I finished my undergrad at IIT (BHU).
 Email: aanand300 [at] uchicago [dot] edu
 
 <ins>News</ins>
-* Presented a paper at [CoNEXT'23](https://dl.acm.org/doi/pdf/10.1145/3624354.3630583)
+* Presented a paper at <a href="https://dl.acm.org/doi/pdf/10.1145/3624354.3630583" style="text-decoration:none;">CoNEXT'23</a>
 * I started my Ph.D. at UChicago in Fall 2023
-* Spent the summer of 2023 and 2022 at Merit Research where I was advised by [Dr. Michalis Kallitsis](http://www-personal.umich.edu/~mgkallit/)
+* Spent the summer of 2023 and 2022 at Merit Research where I was advised by <a href="http://www-personal.umich.edu/~mgkallit/" style="text-decoration:none;">Dr. Michalis Kallitsis</a>
 * Started MS in Computer Science at Georgia Tech in Fall 2021
 * Worked remotely with Dr. Marios Lestas and Dr. Waqar Asif until May 2021 on exploring blockchain network in wireless setting
 * Graduated from IIT (BHU) in July 2020 with a Bachelor of Technology in Ceramic Engineering
