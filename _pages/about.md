@@ -11,7 +11,7 @@ redirect_from:
 ### About me
 <!-- Hi! I am Aniket, a Master's student at [Georgia Tech](https://www.gatech.edu/) advised by [Professor Alberto Dainotti](https://faculty.cc.gatech.edu/~adainotti6/). I am studying Computer Science and specializing in Computing Systems. My research interest lies in Internet Measurement, Internet-Wide Computer Networks and Security. Recently, my research has focused on classifying major networks at various geolocations, identifying internet outages, and exploring internet-wide scanners. -->
 
-Hi! I am a first-year Ph.D. student at UChicago advised by Prof. <a href="https://people.cs.uchicago.edu/~grantho/" style="text-decoration:none;">Grant Ho</a>. I am interested in data-driven security research.
+Hi! I am a Ph.D. student at UChicago advised by Prof. <a href="https://people.cs.uchicago.edu/~grantho/" style="text-decoration:none;">Grant Ho</a>. I am interested in data-driven security research.
 <br>
 I received my MS in CS from Georgia Tech where I worked on Internet measurements. I was advised by Prof.  <a href="https://faculty.cc.gatech.edu/~adainotti6/" style="text-decoration:none;">Alberto Dainotti</a> and collaborated with Dr. Zachary Bischof and Dr. Amanda Meng.
 <br>
